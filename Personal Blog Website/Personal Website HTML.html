@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name</title>
+  <link rel="stylesheet" href="Personal Website CSS.css" />
+  <!-- tsParticles CDN -->
+<script src="https://cdn.jsdelivr.net/npm/tsparticles@2/tsparticles.bundle.min.js"></script>
+</head>
+<body>
+  <div id="tsparticles"></div>
+  <header>
+    <nav>
+      <h1>Welcome to my page.</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hello, I'm Dustin!</h2>
+    <p>A passionate [Programmer] </br>
+      Site under construction! Stay tuned for more!
+    </p>
+  </section>
+
+  <section id="about">
+    <h3>About Me</h3>
+    <p>I am a father of three and closing in on my programming/computer science degree.
+      I have dove head first off into various programming languages as creating is a dream of mine.
+    </p>
+  </section>
+
+
+  <section id="projects">
+    <h3>Projects</h3>
+    <div class="project">
+      <h4>Out of Mana</h4>
+      <!-- Add the thumbnail with a link -->
+      <a href="https://sapphirebloo.github.io/Out-of-Mana/" target="_blank">
+        <img src="Assets/OutofMana.png" alt="Project One Thumbnail" class="project-thumbnail" />
+      </a>
+      <p>Welcome to Out of Mana!</p> </br>
+      <P> The First game I have ever created using free assets!</P>
+    <p> Still under development!</p>
+    </br>
+      <p>Click the thumbnail for a live demo!</p>
+    </div>
+    <div class="project">
+      <h4>Project Two</h4>
+      <p>If I had another project it would surely be here! (Does this website count?!)</p>
+    </div>
+  </section>
+  
+
+  <section id="contact">
+    <h3>Contact</h3>
+    <p>Email: Dustinboydxx@gmail.com</p>
+    <p>Codedex: <a href="https://www.codedex.io/@SapphireBloo">Here</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Dustin Scott Boyd. All rights reserved.</p>
+  </footer>
+
+  <!-- Animation Script -->
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const sections = document.querySelectorAll('section:not(.hero)');
+
+      const observer = new IntersectionObserver(entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      }, {
+        threshold: 0.1
+      });
+
+      sections.forEach(section => observer.observe(section));
+    });
+  </script>
+  <script>
+  tsParticles.load("tsparticles", {
+    fullScreen: { enable: false },
+    background: {
+      color: "#121212"
+    },
+    particles: {
+      number: {
+        value: 60,
+        density: {
+          enable: true,
+          area: 800
+        }
+      },
+      color: {
+        value: "#00e6e6"
+      },
+      shape: {
+        type: "circle"
+      },
+      opacity: {
+        value: 0.3
+      },
+      size: {
+        value: { min: 1, max: 4 }
+      },
+      move: {
+        enable: true,
+        speed: 1,
+        direction: "none",
+        outModes: {
+          default: "bounce"
+        }
+      },
+      links: {
+        enable: true,
+        distance: 120,
+        color: "#00e6e6",
+        opacity: 0.2,
+        width: 1
+      }
+    },
+    detectRetina: true
+  });
+</script>
+</body>
+</html>
