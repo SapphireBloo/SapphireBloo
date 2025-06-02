@@ -1,43 +1,39 @@
-👋 Hi, I'm Dustin Scott Boyd (aka SapphireBloo)
-I'm a full-stack developer and indie game creator passionate about building expressive, interactive experiences on the web. I specialize in elegant UI design, meaningful game mechanics, and scalable systems. Whether it's a web app or a 2D game, I aim to blend creativity with clean code.
+# 👋 Hi, I'm Dustin Scott Boyd (aka SapphireBloo)Add commentMore actions
 
-🧰 Tech Stack
-Languages
-JavaScript · HTML5 · CSS3
+I'm a passionate full-stack developer and indie game creator focused on building expressive, interactive experiences on the web. I love designing elegant UIs, crafting meaningful mechanics, and continuously learning new technologies.
 
-Frontend
-React · Tailwind CSS · Framer Motion
+---
 
-Backend
-Node.js · Express · Firebase · Supabase
+## 🛠️ Tech Stack
 
-Game Development
-Phaser · Tiled
+- **Languages:** JavaScript, HTML5, CSS3
+- **Frontend:** React, Tailwind CSS, Framer Motion
+- **Backend:** Node.js, Express, Firebase, Supabase
+- **Game Dev:** Phaser, Tiled
+- **Tools:** Vite, Git, GitHub, VS Code, Figma
 
-Developer Tools
-Vite · Git · GitHub · VS Code · Figma
+---
 
-🚀 Currently Exploring
-Advanced Canvas & WebGL rendering
+## 🎯 Currently Exploring
 
-Multiplayer architecture using Firebase
+- Advanced canvas and WebGL rendering
+- Multiplayer architecture with Firebase
+- Mobile-first game UX & accessibility
 
-Mobile-first game UX & accessibility standards
+---
 
-🔨 Favorite Tools
-Icon	Tool	Why I Use It
-VS Code	Customizable, fast, and packed with productivity extensions
-Figma	Lightning-fast prototyping and UI collaboration
-Vite	Ultra-fast build tool for modern web projects
-Phaser	Flexible framework for 2D game development
-Git	Reliable and battle-tested version control
-Framer Motion	Smooth, intuitive animations for React apps
-Firebase	Full-featured BaaS with realtime data and auth
-Supabase	Open-source Firebase alternative with SQL power
+## 📈 GitHub Stats
 
-📬 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/dustin-scott-boyd/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sapphirebloo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+![Dustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SapphireBloo&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SapphireBloo&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dustin-scott-boyd/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dustinboydxx@gmail.com)
+
 ---
 
 > “Code is art, and I build with elegance, not just logic.”
-
