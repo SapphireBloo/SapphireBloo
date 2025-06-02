@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dustin Scott Boyd (aka SapphireBloo)Add commentMore actions
+# 👋 Hi, I'm Dustin Scott Boyd (aka SapphireBloo)
 
 I'm a passionate full-stack developer and indie game creator focused on building expressive, interactive experiences on the web. I love designing elegant UIs, crafting meaningful mechanics, and continuously learning new technologies.
 
