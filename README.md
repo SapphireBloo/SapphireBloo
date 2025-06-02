@@ -25,20 +25,18 @@ Multiplayer architecture using Firebase
 Mobile-first game UX & accessibility standards
 
 🔨 Favorite Tools
-These are the tools I rely on daily to design, build, and deploy projects efficiently:
-
-Tool	Why I Use It
+Icon	Tool	Why I Use It
 VS Code	Customizable, fast, and packed with productivity extensions
 Figma	Lightning-fast prototyping and UI collaboration
 Vite	Ultra-fast build tool for modern web projects
 Phaser	Flexible framework for 2D game development
-Git & GitHub	Reliable version control and collaboration
-Framer Motion	Smooth, intuitive animation for React apps
+Git	Reliable and battle-tested version control
+Framer Motion	Smooth, intuitive animations for React apps
 Firebase	Full-featured BaaS with realtime data and auth
 Supabase	Open-source Firebase alternative with SQL power
 
 📬 Connect with Me
-<p align="left"> <a href="https://twitter.com/SapphireBloo" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> <a href="https://github.com/SapphireBloo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="https://www.linkedin.com/in/sapphirebloo" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sapphirebloo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p
+<p align="left"> <a href="https://www.linkedin.com/in/dustin-scott-boyd/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:sapphirebloo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 ---
 
 > “Code is art, and I build with elegance, not just logic.”
