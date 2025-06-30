@@ -2,7 +2,7 @@
 <p align="center">Turning ideas into interactive web experiences & playable art</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f52ba&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dustin+Scott+Boyd!;Full-Stack+Dev+%7C+Game+Maker+%7C+Web+Tinkerer;Let's+build+something+beautiful+%26+useful." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0f52ba&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dustin+Scott+Boyd!;Full-Stack+Dev+%7C+Game+Maker+%7C+Web+Tinkerer;Let's+build+something+beautiful+%26+useful." alt="Typing SVG" />
 </p>
 
 ---
